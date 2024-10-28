@@ -5,7 +5,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 Soy un estudiante de desarrollo web apasionado por la programación y siempre con ganas de aprender y mejorar mis habilidades. Aunque me inclino más por el desarrollo backend, también tengo experiencia en el frontend y disfruto de poder abarcar ambas partes del desarrollo web.
 
 ### 🚀 Acerca de mí
@@ -20,17 +20,18 @@ Soy un estudiante de desarrollo web apasionado por la programación y siempre co
 <br>
 
 ###
-- **Programming languages**
-
+<picture> <img src="https://th.bing.com/th/id/R.1738090bcb7248934a4ac4f1fdc18217?rik=KEuFjuU1P0qyDA&pid=ImgRaw&r=0" width = 50px> </picture> **Programming languages**
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
    <img width="10" />
-
-
+</div>
+<br>
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> **Frontend Development**
 
-<div align="left>
+<div align="left">
+ <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
     <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -39,13 +40,12 @@ Soy un estudiante de desarrollo web apasionado por la programación y siempre co
     <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
     <img width="10" />
-   
 </div>
  <br>
 
 <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> **Software & Tools** 
 
-<div align="left>
+<div align="left">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="10" />
@@ -58,9 +58,9 @@ Soy un estudiante de desarrollo web apasionado por la programación y siempre co
   </div>
   <br>
   
-  <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> **IDEs**
+  <picture> <img src = "https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width = 50px>  </picture> **IDEs**
   
-<div align="left>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
