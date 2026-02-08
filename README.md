@@ -3,7 +3,7 @@
 </h1>
 
 <h1 align="left">  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&pause=1000&color=ff0055&center=false&vCenter=false&width=300&lines=SKILLS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=ff0055&center=false&vCenter=false&width=300&lines=SKILLS" alt="Typing SVG" />
 </h1>
 
 #### 🔋 **Backend Modules**
